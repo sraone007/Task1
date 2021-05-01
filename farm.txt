@@ -1,2 +1,5 @@
 welcome to Farm text file
 
+coconut
+palm
+mango
